@@ -1,0 +1,20 @@
+<resources>
+  
+    <strings>
+      <string id="AppName">Mickey</string>
+    </strings>
+
+    <drawables>
+      <bitmap id="LauncherIcon" filename="bitmaps/launcher_icon.png" />
+    </drawables>
+
+    <fonts>
+      <font id="hands" filename="fonts/mickey_hand_0_29.fnt" antialias="true"/>
+      <font id="hands_31" filename="fonts/mickey_hand_30_59.fnt" antialias="true"/>
+      <font id="body" filename="fonts/mickey_body.fnt" antialias="true"/>
+    </fonts>
+
+    <bitmaps>
+    </bitmaps>
+
+</resources>
